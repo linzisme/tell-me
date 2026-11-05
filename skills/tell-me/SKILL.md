@@ -1,5 +1,6 @@
 ---
 name: tell-me
+license: PolyForm-Noncommercial-1.0.0
 description: Explain a requirement, mechanism, change, proposal, or problem as a narrative stack of cards, rendered inline in the conversation or as an HTML page.
 disable-model-invocation: true
 ---

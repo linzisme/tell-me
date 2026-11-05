@@ -68,3 +68,9 @@ skills/tell-me/
 ```
 
 `SKILL.md` 是技能指令，`agents/openai.yaml` 保留 Codex 的显式调用策略。
+
+## 许可证
+
+采用 [PolyForm Noncommercial 1.0.0](LICENSE)。允许许可证规定的非商业使用、修改和分发；商业用途需另行获得作者授权。完整适用范围和条件以许可证原文为准。
+
+技能目录内同时附带许可证，安装后可查看 `tell-me/LICENSE`。
